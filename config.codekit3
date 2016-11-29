@@ -49,6 +49,12 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
 	"\/mockups\/captions.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -79,6 +85,12 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/readme.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/readme.html",
+		"oF": 0
+		},
 	"\/readme.md": {
 		"cS": 0,
 		"eF": 1,
@@ -96,6 +108,16 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/styles\/main.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/styles\/main-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/video\/captions.vtt": {
 		"ft": 8192,

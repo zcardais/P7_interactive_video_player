@@ -6,7 +6,7 @@
 * Check that the video works in at least 3 modern browsers.
   * You can use Chrome and Firefox, if you have a PC also check your site using Internet Explorer and if you have a Mac check it using Safari.
 * Add the transcript below the video (as shown in the mockup file).
-  * Use the captions.txt file for the text. Add appropriate <p> tags around the text.
+  * Use the captions.txt file for the text. Add appropriate <code><p></code> tags around the text.
 * Style the page using the mockups as guides.
 * Implement the play and pause buttons.
 * Add volume button that lets you mute the sound or turn it on.
