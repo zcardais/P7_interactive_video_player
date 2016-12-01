@@ -6,17 +6,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Project 7: Interactive Video Player</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
+    <script src="mejs/build/jquery.js"></script>
+    <script src="mejs/build/mediaelement-and-player.min.js"></script>
+    <link rel="stylesheet" href="mejs/build/mediaelementplayer.css" />
+
+
+
     <link rel="stylesheet" href="styles/main-min.css">
+    <link rel="stylesheet" href="styles/mejs-treehouse.css">
 </head>
 
 <body>
 
     <div class="wrapper">
-        <video controls>
+        <video class="mejs-treehouse" width="1280" height="720" controls>
           <source src="video/video.mp4" type="video/mp4">
           <source src="video/video.ogg" type="video/ogg">
+          <track label="English" kind="subtitles" srclang="en" src="video/captions.vtt" default>
         </video>
+
     </div>
+
+    <script type="text/javascript">
+        $('audio,video').mediaelementplayer({
+            success: function(player, node) {
+                $('#' + node.id + '-mode').html('mode: ' + player.pluginType);
+            },
+            features: ['playpause', 'tracks', 'progress'],
+            startLanguage: 'en',
+            translationSelector: true
+        });
+    </script>
 </body>
 
 </html>

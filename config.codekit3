@@ -55,6 +55,2288 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/mejs\/api.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/mejs\/api.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/mejs\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/mejs\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/mejs\/build\/background.png": {
+		"ft": 32768,
+		"iS": 166,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/background.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/bigplay.fw.png": {
+		"ft": 32768,
+		"iS": 79426,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/bigplay.fw.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/bigplay.png": {
+		"ft": 32768,
+		"iS": 3001,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/bigplay.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/bigplay.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/bigplay.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/mejs\/build\/controls-ted.png": {
+		"ft": 32768,
+		"iS": 1559,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/controls-ted.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/controls-wmp-bg.png": {
+		"ft": 32768,
+		"iS": 1960,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/controls-wmp-bg.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/controls-wmp.png": {
+		"ft": 32768,
+		"iS": 5511,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/controls-wmp.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/controls.fw.png": {
+		"ft": 32768,
+		"iS": 80753,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/controls.fw.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/controls.png": {
+		"ft": 32768,
+		"iS": 1892,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/controls.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/controls.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/controls.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/mejs\/build\/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt",
+		"oF": 0
+		},
+	"\/mejs\/build\/flashmediaelement-cdn.swf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/flashmediaelement-cdn.swf",
+		"oF": 0
+		},
+	"\/mejs\/build\/flashmediaelement-debug.swf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/flashmediaelement-debug.swf",
+		"oF": 0
+		},
+	"\/mejs\/build\/flashmediaelement.swf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/flashmediaelement.swf",
+		"oF": 0
+		},
+	"\/mejs\/build\/jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/jumpforward.png": {
+		"ft": 32768,
+		"iS": 1563,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/jumpforward.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-cs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-cs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-de.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-de-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-en.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-en-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-es.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-es-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-fr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-fr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-hu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-hu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-it.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-it-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-ja.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-ja-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-ko.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-ko-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-nl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-nl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-pl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-pl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-pt-br.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-pt-br-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-pt.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-pt-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-ro.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-ro-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-ru.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-ru-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-sk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-sk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-zh-cn.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-zh-cn-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/lang\/me-i18n-locale-zh.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/lang\/me-i18n-locale-zh-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/loading.gif": {
+		"ft": 4194304,
+		"iS": 6224,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/build\/mediaelement-and-player.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/mediaelement-and-player-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/mediaelement-and-player.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/mediaelement-and-player.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/mediaelement.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/mediaelement-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/mediaelement.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/mediaelement.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/mediaelementplayer.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/mediaelementplayer-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/build\/mediaelementplayer.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/mediaelementplayer-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/mediaelementplayer.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/mediaelementplayer.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/build\/mediaelementplayer.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/mediaelementplayer.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/build\/mejs-skins.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/mejs-skins-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/build\/silverlightmediaelement.xap": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/build\/silverlightmediaelement.xap",
+		"oF": 0
+		},
+	"\/mejs\/build\/skipback.png": {
+		"ft": 32768,
+		"iS": 4245,
+		"oA": 0,
+		"oAP": "\/mejs\/build\/skipback.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/changelog.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/mejs\/changelog.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/mejs\/compile_swf.sh": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/compile_swf.sh",
+		"oF": 0
+		},
+	"\/mejs\/css\/background.png": {
+		"ft": 32768,
+		"iS": 166,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/background.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/bigplay.fw.png": {
+		"ft": 32768,
+		"iS": 79426,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/bigplay.fw.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/bigplay.png": {
+		"ft": 32768,
+		"iS": 3001,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/bigplay.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/bigplay.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/css\/bigplay.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/mejs\/css\/controls-ted.png": {
+		"ft": 32768,
+		"iS": 1559,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/controls-ted.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/controls-wmp-bg.png": {
+		"ft": 32768,
+		"iS": 1960,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/controls-wmp-bg.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/controls-wmp.png": {
+		"ft": 32768,
+		"iS": 5511,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/controls-wmp.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/controls.fw.png": {
+		"ft": 32768,
+		"iS": 80753,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/controls.fw.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/controls.png": {
+		"ft": 32768,
+		"iS": 1892,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/controls.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/controls.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/css\/controls.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/mejs\/css\/jumpforward.png": {
+		"ft": 32768,
+		"iS": 1563,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/jumpforward.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/loading.gif": {
+		"ft": 4194304,
+		"iS": 6224,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/css\/mediaelementplayer.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/css\/mediaelementplayer-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/css\/mejs-skins.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/css\/mejs-skins-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/css\/skipback.png": {
+		"ft": 32768,
+		"iS": 4245,
+		"oA": 0,
+		"oAP": "\/mejs\/css\/skipback.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/demo\/hls_streams.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/demo\/hls_streams-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/demo\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/index.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelement-stream.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelement-stream.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelement.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelement.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-audio.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-audio.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-events.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-events.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-frameaccurate.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-frameaccurate.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-hls.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-hls.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-inflash-autoresize.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-inflash-autoresize.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-markers.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-markers.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-postroll-content.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-postroll-content.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-postroll.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-postroll.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-responsive.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-responsive.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-skins.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-skins.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-sourcechooser.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-sourcechooser.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-src.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-src.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-stretching.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-stretching.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-track.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-track.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-translation.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-translation.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer-youtube.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer-youtube.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/mediaelementplayer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/demo\/mediaelementplayer.html",
+		"oF": 0
+		},
+	"\/mejs\/demo\/testforfiles.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/demo\/testforfiles-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/flash\/flashls.swc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/flashls.swc",
+		"oF": 0
+		},
+	"\/mejs\/flash\/FlashMediaElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/FlashMediaElement.as",
+		"oF": 0
+		},
+	"\/mejs\/flash\/FlashMediaElement.fla": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/FlashMediaElement.fla",
+		"oF": 0
+		},
+	"\/mejs\/flash\/flashmediaelement.swc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/flashmediaelement.swc",
+		"oF": 0
+		},
+	"\/mejs\/flash\/htmlelements\/AudioElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/htmlelements\/AudioElement.as",
+		"oF": 0
+		},
+	"\/mejs\/flash\/htmlelements\/DailyMotionElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/htmlelements\/DailyMotionElement.as",
+		"oF": 0
+		},
+	"\/mejs\/flash\/htmlelements\/HLSMediaElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/htmlelements\/HLSMediaElement.as",
+		"oF": 0
+		},
+	"\/mejs\/flash\/htmlelements\/IMediaElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/htmlelements\/IMediaElement.as",
+		"oF": 0
+		},
+	"\/mejs\/flash\/htmlelements\/VideoElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/htmlelements\/VideoElement.as",
+		"oF": 0
+		},
+	"\/mejs\/flash\/htmlelements\/YouTubeElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/htmlelements\/YouTubeElement.as",
+		"oF": 0
+		},
+	"\/mejs\/flash\/HtmlMediaEvent.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/flash\/HtmlMediaEvent.as",
+		"oF": 0
+		},
+	"\/mejs\/Gruntfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/Gruntfile-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/guidelines.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/mejs\/guidelines.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/mejs\/installation.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/mejs\/installation.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/mejs\/js\/jeesh-extras.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/jeesh-extras-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/jeesh.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/jeesh-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-featuredetection.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-featuredetection-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-header.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-header-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-cs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-cs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-de.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-de-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-en.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-en-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-es.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-es-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-fr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-fr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-hu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-hu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-it.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-it-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-ja.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-ja-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-ko.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-ko-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-nl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-nl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-pl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-pl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-pt-br.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-pt-br-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-pt.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-pt-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-ro.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-ro-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-ru.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-ru-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-sk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-sk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-zh-cn.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-zh-cn-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n-locale-zh.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-locale-zh-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-i18n.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-i18n-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-mediaelements.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-mediaelements-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-namespace.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-namespace-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-plugindetector.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-plugindetector-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-shim.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-shim-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/me-utility.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/me-utility-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-ads-vast.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-ads-vast-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-ads.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-ads-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-backlight.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-backlight-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-contextmenu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-contextmenu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-endedhtml.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-endedhtml-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-fullscreen.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-fullscreen-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-googleanalytics.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-googleanalytics-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-jumpforward.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-jumpforward-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-loop.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-loop-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-markers.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-markers-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-playlist.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-playlist-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-playpause.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-playpause-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-postroll.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-postroll-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-progress.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-progress-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-skipback.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-skipback-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-sourcechooser.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-sourcechooser-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-speed.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-speed-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-stop.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-stop-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-time.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-time-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-tracks.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-tracks-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-universalgoogleanalytics.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-universalgoogleanalytics-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-visualcontrols.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-visualcontrols-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-feature-volume.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-feature-volume-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-header.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-header-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-library.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-library-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/js\/mep-player.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/js\/mep-player-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/media\/echo-hereweare.jpg": {
+		"ft": 16384,
+		"iS": 19675,
+		"oA": 0,
+		"oAP": "\/mejs\/media\/echo-hereweare.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/media\/echo-hereweare.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/media\/echo-hereweare.mp4",
+		"oF": 0
+		},
+	"\/mejs\/media\/mediaelement.srt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/media\/mediaelement.srt",
+		"oF": 0
+		},
+	"\/mejs\/media\/other.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/media\/other.mp4",
+		"oF": 0
+		},
+	"\/mejs\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/mejs\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/mejs\/player.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/player-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/mejs\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/mejs\/silverlight\/App.xaml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/App.xaml",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/App.xaml.cs": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/App.xaml.cs",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/MainPage.xaml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/MainPage.xaml",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/MainPage.xaml.cs": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/MainPage.xaml.cs",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/Properties\/AppManifest.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/Properties\/AppManifest.xml",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/Properties\/AssemblyInfo.cs": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/Properties\/AssemblyInfo.cs",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/SilverlightMediaElement.csproj": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/SilverlightMediaElement.csproj",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/SilverlightMediaElement.csproj.user": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/SilverlightMediaElement.csproj.user",
+		"oF": 0
+		},
+	"\/mejs\/silverlight\/SilverlightMediaElement.sln": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/silverlight\/SilverlightMediaElement.sln",
+		"oF": 0
+		},
+	"\/mejs\/src\/css\/background.png": {
+		"ft": 32768,
+		"iS": 166,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/background.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/bigplay.fw.png": {
+		"ft": 32768,
+		"iS": 79426,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/bigplay.fw.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/bigplay.png": {
+		"ft": 32768,
+		"iS": 3001,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/bigplay.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/bigplay.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/css\/bigplay.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/mejs\/src\/css\/controls-ted.png": {
+		"ft": 32768,
+		"iS": 1559,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/controls-ted.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/controls-wmp-bg.png": {
+		"ft": 32768,
+		"iS": 1960,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/controls-wmp-bg.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/controls-wmp.png": {
+		"ft": 32768,
+		"iS": 5511,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/controls-wmp.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/controls.fw.png": {
+		"ft": 32768,
+		"iS": 80753,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/controls.fw.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/controls.png": {
+		"ft": 32768,
+		"iS": 1892,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/controls.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/controls.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/css\/controls.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/mejs\/src\/css\/jumpforward.png": {
+		"ft": 32768,
+		"iS": 1563,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/jumpforward.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/loading.gif": {
+		"ft": 4194304,
+		"iS": 6224,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/css\/mediaelementplayer.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/css\/mediaelementplayer-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/src\/css\/mejs-skins.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/css\/mejs-skins-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/src\/css\/skipback.png": {
+		"ft": 32768,
+		"iS": 4245,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/css\/skipback.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mejs\/src\/flash\/flashls.swc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/flashls.swc",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/FlashMediaElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/FlashMediaElement.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/FlashMediaElement.fla": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/FlashMediaElement.fla",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/flashmediaelement.swc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/flashmediaelement.swc",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/htmlelements\/AudioElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/htmlelements\/AudioElement.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/htmlelements\/DailyMotionElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/htmlelements\/DailyMotionElement.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/htmlelements\/HLSMediaElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/htmlelements\/HLSMediaElement.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/htmlelements\/IMediaElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/htmlelements\/IMediaElement.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/htmlelements\/VideoElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/htmlelements\/VideoElement.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/htmlelements\/YouTubeElement.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/htmlelements\/YouTubeElement.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/flash\/HtmlMediaEvent.as": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/flash\/HtmlMediaEvent.as",
+		"oF": 0
+		},
+	"\/mejs\/src\/js\/jeesh-extras.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/jeesh-extras-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/jeesh.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/jeesh-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-featuredetection.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-featuredetection-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-header.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-header-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-cs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-cs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-de.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-de-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-en.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-en-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-es.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-es-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-fr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-fr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-hu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-hu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-it.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-it-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-ja.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-ja-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-ko.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-ko-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-nl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-nl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-pl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-pl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-pt-br.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-pt-br-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-pt.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-pt-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-ro.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-ro-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-ru.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-ru-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-sk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-sk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-zh-cn.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-zh-cn-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n-locale-zh.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-locale-zh-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-i18n.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-i18n-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-mediaelements.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-mediaelements-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-namespace.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-namespace-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-plugindetector.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-plugindetector-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-shim.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-shim-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/me-utility.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/me-utility-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-ads-vast.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-ads-vast-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-ads.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-ads-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-backlight.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-backlight-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-contextmenu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-contextmenu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-endedhtml.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-endedhtml-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-fullscreen.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-fullscreen-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-googleanalytics.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-googleanalytics-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-jumpforward.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-jumpforward-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-loop.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-loop-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-markers.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-markers-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-playlist.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-playlist-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-playpause.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-playpause-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-postroll.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-postroll-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-progress.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-progress-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-skipback.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-skipback-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-sourcechooser.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-sourcechooser-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-speed.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-speed-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-stop.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-stop-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-time.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-time-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-tracks.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-tracks-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-universalgoogleanalytics.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-universalgoogleanalytics-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-visualcontrols.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-visualcontrols-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-feature-volume.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-feature-volume-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-header.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-header-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-library.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-library-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/js\/mep-player.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/src\/js\/mep-player-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/src\/silverlight\/App.xaml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/App.xaml",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/App.xaml.cs": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/App.xaml.cs",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/MainPage.xaml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/MainPage.xaml",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/MainPage.xaml.cs": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/MainPage.xaml.cs",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/Properties\/AppManifest.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/Properties\/AppManifest.xml",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/Properties\/AssemblyInfo.cs": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/Properties\/AssemblyInfo.cs",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/SilverlightMediaElement.csproj": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/SilverlightMediaElement.csproj",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/SilverlightMediaElement.csproj.user": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/SilverlightMediaElement.csproj.user",
+		"oF": 0
+		},
+	"\/mejs\/src\/silverlight\/SilverlightMediaElement.sln": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/src\/silverlight\/SilverlightMediaElement.sln",
+		"oF": 0
+		},
+	"\/mejs\/test\/lib\/jasmine-1.3.1\/jasmine-html.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/test\/lib\/jasmine-1.3.1\/jasmine-html-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/test\/lib\/jasmine-1.3.1\/jasmine.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/mejs\/test\/lib\/jasmine-1.3.1\/jasmine-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mejs\/test\/lib\/jasmine-1.3.1\/jasmine.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/test\/lib\/jasmine-1.3.1\/jasmine-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/test\/lib\/jasmine-1.3.1\/MIT.LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/test\/lib\/jasmine-1.3.1\/MIT.LICENSE",
+		"oF": 0
+		},
+	"\/mejs\/test\/Spec-CreateRemove.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/test\/Spec-CreateRemove-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/test\/Spec-Player.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/test\/Spec-Player-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/test\/Spec-utility.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/mejs\/test\/Spec-utility-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/mejs\/test\/SpecRunner-CreateRemove.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/test\/SpecRunner-CreateRemove.html",
+		"oF": 0
+		},
+	"\/mejs\/test\/SpecRunner-Player.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/test\/SpecRunner-Player.html",
+		"oF": 0
+		},
+	"\/mejs\/test\/SpecRunner-utility.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/test\/SpecRunner-utility.html",
+		"oF": 0
+		},
+	"\/mejs\/test\/test-youtube.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/test\/test-youtube.html",
+		"oF": 0
+		},
+	"\/mejs\/test\/test.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/mejs\/test\/test.html",
+		"oF": 0
+		},
+	"\/mejs\/TODO.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/mejs\/TODO.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/mejs\/usage.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/mejs\/usage.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/mockups\/captions.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -109,6 +2391,16 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/styles\/main-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/styles\/main-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/styles\/main.css": {
 		"aP": 0,
 		"bl": 0,
@@ -116,6 +2408,16 @@
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/styles\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/styles\/mejs-treehouse.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/styles\/mejs-treehouse-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -145,7 +2447,7 @@
 "projectAttributes": {
 	"creationDate": 501880412,
 	"displayValue": "P7_interactive_video_player",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-owl"
 	},
 "projectSettings": {
