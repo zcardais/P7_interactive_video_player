@@ -13,13 +13,13 @@
 <p>This is only the Flash/Silverlight Shim for older browers or browsers without the codec you need. It is not a full player.</p>
 
 <h2>RTMP stream</h2>
-<video width="360" height="203" id="player1" src="rtmp://stream2.france24.yacast.net/france24_live/en/f24_liveen" autoplay="true" type="video/flv" controls="controls"></video>
+<video width="360" height="203" id="video" src="rtmp://stream2.france24.yacast.net/france24_live/en/f24_liveen" autoplay="true" type="video/flv" controls="controls"></video>
 
 <input type="button" id="pp" value="toggle" />
 <span id="time"></span>
 	
 <script>
-MediaElement('player1', {success: function(me) {
+MediaElement('video', {success: function(me) {
 
 	me.play();
 	

@@ -54,13 +54,13 @@ If the feature must be integrated in the core package, place it inside `/src/` f
 <link rel="stylesheet" href="mediaelementplayer.css" />
 <script src="mejs-feature-[feature_name].js"></script>
 
-<video id="player1" width="320" height="240"></video>
+<video id="video" width="320" height="240"></video>
 
 <script>
 $(document).ready(function() {
  
     // create player
-    $('#player1').mediaelementplayer({
+    $('#video').mediaelementplayer({
         // add desired features in order
         features: ['playpause','[feature_name]','current','progress','duration','volume']
     });

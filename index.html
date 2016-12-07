@@ -6,37 +6,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Project 7: Interactive Video Player</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
-    <script src="mejs/build/jquery.js"></script>
-    <script src="mejs/build/mediaelement-and-player.min.js"></script>
-    <link rel="stylesheet" href="mejs/build/mediaelementplayer.css" />
-
-
-
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
     <link rel="stylesheet" href="styles/main-min.css">
-    <link rel="stylesheet" href="styles/mejs-treehouse.css">
 </head>
 
 <body>
-
-    <div class="wrapper">
-        <video class="mejs-treehouse" width="1280" height="720" controls>
-          <source src="video/video.mp4" type="video/mp4">
-          <source src="video/video.ogg" type="video/ogg">
-          <track label="English" kind="subtitles" srclang="en" src="video/captions.vtt" default>
-        </video>
-
+    <div id="wrapper">
+    <div id="video-container">
+        <!-- Video -->
+        <video id="video" style="width: 100%;">
+              <source src="video/video.mp4" type="video/mp4">
+              <source src="video/video.ogg" type="video/ogg">
+              <!-- <track label="English" kind="subtitles" srclang="en" src="video/captions.vtt" default> -->
+            </video>
+        <!-- Video controls -->
+        <div id="video-controls">
+            <button type="button" id="play-pause"><img src="https://cdn3.iconfinder.com/data/icons/youtube-5/100/youtube_13-128.png" width="20px"></button>
+            <input type="range" id="seek-bar" value="0">
+            <button type="button" id="mute">
+              <input type="range" id="volume-bar" mind="0" max="100" step="0.1" value="1">
+            </button>
+            <button type="button" id="full-screen">Fullscreen</button>
+        </div>
     </div>
 
-    <script type="text/javascript">
-        $('audio,video').mediaelementplayer({
-            success: function(player, node) {
-                $('#' + node.id + '-mode').html('mode: ' + player.pluginType);
-            },
-            features: ['playpause', 'tracks', 'progress'],
-            startLanguage: 'en',
-            translationSelector: true
-        });
-    </script>
+    <section class="captions">
+        <p>Now that we've looked at the architecture of the internet, let's see how you might connect your personal devices to the internet inside your house.</p>
+
+        <p>Well there are many ways to connect to the internet, and most often people connect wirelessly. Let's look at an example of how you can connect to the internet.</p>
+
+        <p>If you live in a city or a town, you probably have a coaxial cable for cable Internet, or a phone line if you have DSL, running to the outside of your house, that connects you to the Internet Service Provider, or ISP.</p>
+
+        <p>If you live far out in the country, you'll more likely have a dish outside your house, connecting you wirelessly to your closest ISP, or you might also use the telephone system. Whether a wire comes straight from the ISP hookup outside your house,
+            or it travels over radio waves from your roof, the first stop a wire will make once inside your house, is at your modem.</p>
+
+        <p>A modem is what connects the internet to your network at home. A few common residential modems are DSL or</p>
+    </section>
+    </div>
+
+    <script src="scripts/main.js"></script>
 </body>
 
 </html>

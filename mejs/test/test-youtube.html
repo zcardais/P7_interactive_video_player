@@ -68,7 +68,7 @@
 
 <div id="video-container">
 
-	<video width="640" height="360" id="player1" controls="controls" preload="none">
+	<video width="640" height="360" id="video" controls="controls" preload="none">
 	
 		<source src="https://www.youtube.com/watch?v=C0DPdy98e4c"  type="video/youtube" /> 	
 		
@@ -86,7 +86,7 @@ $('#showit').on('click', function() {
 		$('#video-container').show();
 	}
 	
-	$('#player1')[0].player.setControlsSize();
+	$('#video')[0].player.setControlsSize();
 });
 </script>
 
@@ -238,7 +238,7 @@ jQuery(document).ready(function() {
 	
 			
 			// add events
-			if (tagName == 'video' && node.id == 'player1') {
+			if (tagName == 'video' && node.id == 'video') {
 				appendMediaProperties($('#' + tagName + '-props'), me);
 				appendMediaEvents($('#' + tagName + '-events'), me);
 				

@@ -73,7 +73,7 @@
 
 <div id="video-container">
 
-	<video width="640" height="360" id="player1" controls="controls" preload="none" poster="../media/echo-hereweare.jpg">
+	<video width="640" height="360" id="video" controls="controls" preload="none" poster="../media/echo-hereweare.jpg">
 	
 		<source src="../media/echo-hereweare.mp4"  type="video/mp4" /> 	
 			
@@ -93,7 +93,7 @@ $('#showit').on('click', function() {
 		$('#video-container').show();
 	}
 	
-	$('#player1')[0].player.setControlsSize();
+	$('#video')[0].player.setControlsSize();
 });
 </script>
 
@@ -263,7 +263,7 @@ jQuery(document).ready(function() {
 	
 			
 			// add events
-			if (tagName == 'video' && node.id == 'player1') {
+			if (tagName == 'video' && node.id == 'video') {
 				appendMediaProperties($('#' + tagName + '-props'), me);
 				appendMediaEvents($('#' + tagName + '-events'), me);
 				

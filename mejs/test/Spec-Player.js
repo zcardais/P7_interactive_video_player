@@ -7,11 +7,11 @@ describe("HTMLMediaElement", function() {
   var METADATA_TIMEOUT = 500, ENOUGH_DATA_TIMEOUT = 1000;
 
   beforeEach(function() {
-    $('body').prepend('<video width="640" height="360" id="player1" poster="../media/echo-hereweare.jpg">' +
+    $('body').prepend('<video width="640" height="360" id="video" poster="../media/echo-hereweare.jpg">' +
       '<source type="video/mp4" src="../media/echo-hereweare.mp4" ></source>' +
       '<source type="video/webm" src="../media/echo-hereweare.webm" ></source>' +
         '</video>');
-    player = new MediaElementPlayer('#player1', {
+    player = new MediaElementPlayer('#video', {
       enableAutosize: false,
         success: function(mediaElement, domObject) {
             element = mediaElement;
@@ -93,12 +93,12 @@ describe("sourcechooser with the flash player", function() {
   var domElem;
 
   beforeEach(function() {
-      $('body').prepend('<video width="640" height="360" id="player1" poster="../media/echo-hereweare.jpg">' +
+      $('body').prepend('<video width="640" height="360" id="video" poster="../media/echo-hereweare.jpg">' +
         '<source type="video/mp4" src="../media/other.mp4" title="Other MP$"></source>' +
         '<source type="video/mp4" src="../media/echo-hereweare.mp4" title="MP4"></source>' +
         '</video>');
 
-      player = new MediaElementPlayer('#player1', {
+      player = new MediaElementPlayer('#video', {
           enableAutosize: false,
           mode: 'shim',
           flashName: '../build/flashmediaelement.swf',

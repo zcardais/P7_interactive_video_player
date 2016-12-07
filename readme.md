@@ -2,27 +2,27 @@
 
 ## Project Instructions
 
-- Embed the video using HTML.
+- Embed the video using HTML. **Complete.**
 - Check that the video works in at least 3 modern browsers.
 
   - You can use Chrome and Firefox, if you have a PC also check your site using Internet Explorer and if you have a Mac check it using Safari.
 
-- Add the transcript below the video (as shown in the mockup file).
+- Add the transcript below the video (as shown in the mockup file). **Complete.**
 
-  - Use the captions.txt file for the text. Add appropriate ``
+  - Use the captions.txt file for the text. Add appropriate `p` tags around the text.
 
-    `` tags around the text.
+- Style the page using the mockups as guides. **In progress.**
 
-- Style the page using the mockups as guides.
+- Implement the play and pause buttons. **Complete.**
 
-- Implement the play and pause buttons.
+- Add volume button that lets you mute the sound or turn it on. **Complete.**
 
-- Add volume button that lets you mute the sound or turn it on.
-- Implement the fullscreen button.
+- Implement the fullscreen button. **Complete.**
+
 - Implement the playback progress control.
 
-  - A user should be able to click anywhere on the playback bar to jump to that part of the video.
-  - As the video plays the playback bar should fill in.
+  - A user should be able to click anywhere on the playback bar to jump to that part of the video. **Complete.**
+  - As the video plays the playback bar should fill in. **Complete.**
   - As the video plays the current time should be displayed and updated e.g. 0:10 / 11:34.
 
 - Use Javascript or CSS to hide and show the video player button on mouse hover states.
@@ -70,4 +70,21 @@
 
 ## Notes from Treehouse Courses
 
-- create a custom skin for mejs, e.g. mejs-treehouse.css -
+- create a custom skin for mejs, e.g. mejs-treehouse.css
+
+## Helpful Student Projects
+
+- <https://bellaratmelia.github.io/fewd-7-interactive-video-player/>
+- <https://github.com/gschweizer/Interactive-Video-Player>
+- [webdesignertroy](https://github.com/webdesignertroy/Techdegree-Project-7)
+
+## Helpful Student Links
+
+- [Building Custom Controls for HTML5 Videos - Treehouse Blog](http://blog.teamtreehouse.com/building-custom-controls-for-html5-videos)
+
+- [Using JavaScript to control the HTML5 video player](https://msdn.microsoft.com/en-us/library/hh924823(v=vs.85).aspx)
+
+## Questions for Mentor Session
+
+- what's the difference between innerHTML and outerHTML?
+- In this project, we've had to call methods on the video, e.g. video.play(); and video.pause();. I only knew about these from a Treehouse blog post how-to article. How would I find the list of available methods on my own? -

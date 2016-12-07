@@ -15,11 +15,11 @@ describe("HTMLMediaElement", function() {
 
   it("should be able to create and remove a player and clean up everything", function() {
     runs(function() {
-        $('body').prepend('<video width="640" height="360" id="player1" poster="../media/echo-hereweare.jpg">' +
+        $('body').prepend('<video width="640" height="360" id="video" poster="../media/echo-hereweare.jpg">' +
           '<source type="video/mp4" src="../media/echo-hereweare.mp4" ></source>' +
           '<source type="video/webm" src="../media/echo-hereweare.webm" ></source>' +
             '</video>');
-        player = new MediaElementPlayer('#player1', {
+        player = new MediaElementPlayer('#video', {
           enableAutosize: false,
             success: function(mediaElement, domObject) {
                 element = mediaElement;
