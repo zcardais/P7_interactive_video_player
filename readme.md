@@ -96,4 +96,4 @@
 
   - What's the difference between innerHTML and outerHTML?
 
-  - This project has required us to call methods on the video, e.g. video.play(); and video.pause();. I only knew about these from a Treehouse blog post how-to article. How would I find the list of available methods on my own? -
+  - This project has required us to call methods on the video, e.g. video.play(); and video.pause();. I only knew about these from a Treehouse blog post how-to article. How would I find the list of available methods on my own?
