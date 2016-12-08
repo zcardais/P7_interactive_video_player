@@ -71,7 +71,7 @@ button:hover {
 }
 
 #play-pause {
-    background-image: url(https://cdn3.iconfinder.com/data/icons/youtube-5/100/youtube_13-128.png);
+    background-image: url('scripts/pause-icon.png)';
 }
 
 #seek-bar {

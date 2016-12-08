@@ -12,7 +12,7 @@ window.onload = function() {
     var seekBar = document.getElementById("seek-bar");
     var volumeBar = document.getElementById("volume-bar");
 
-    // Event listner for the play/pause button
+    // Event listener for the play/pause button
     playButton.addEventListener("click", function() {
         if (video.paused === true) {
             // Play the video
@@ -29,7 +29,7 @@ window.onload = function() {
         }
     });
 
-    // Event listner for the mute button
+    // Event listener for the mute button
     muteButton.addEventListener("click", function() {
         if (video.muted === false) {
             // Mute the video
@@ -85,7 +85,7 @@ window.onload = function() {
       video.play();
     });
 
-    // Event listner for the volume bar
+    // Event listener for the volume bar
     volumeBar.addEventListener("change", function() {
       // Update the video volume
       video.volume = volumeBar.value;

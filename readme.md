@@ -82,9 +82,18 @@
 
 - [Building Custom Controls for HTML5 Videos - Treehouse Blog](http://blog.teamtreehouse.com/building-custom-controls-for-html5-videos)
 
-- [Using JavaScript to control the HTML5 video player](https://msdn.microsoft.com/en-us/library/hh924823(v=vs.85).aspx)
+- [Using JavaScript to control the HTML5 video player](http://zeffective.d.pr/fWLk)
 
 ## Questions for Mentor Session
 
-- what's the difference between innerHTML and outerHTML?
-- In this project, we've had to call methods on the video, e.g. video.play(); and video.pause();. I only knew about these from a Treehouse blog post how-to article. How would I find the list of available methods on my own? -
+- In its current working state, when the user mutes the video the text toggles between "Mute" and "Unmute", which does not match the mockups. How do I display the volume-on.png icon when the player is unmuted and the volume-off.png icon when the user mutes the player? The code for this is on lines 39-45 in scripts/main.js.
+
+- Same question as above, but for the Play and Pause icons. The code for this is on lines 22-28 in scripts/main.js
+
+- Where'd the seek-bar go? I revised the markup in index.html to show the icons for play, pause, mute and fullscreen in place of text. Unfortunately, this has broken the styling of my seek bar as it no longer displays. What's going on?
+
+- General Questions
+
+  - What's the difference between innerHTML and outerHTML?
+
+  - This project has required us to call methods on the video, e.g. video.play(); and video.pause();. I only knew about these from a Treehouse blog post how-to article. How would I find the list of available methods on my own? -
