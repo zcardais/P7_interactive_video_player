@@ -7,9 +7,14 @@ window.onload = function() {
     var playButton = document.getElementById("play-pause");
     var muteButton = document.getElementById("mute");
     var fullScreenButton = document.getElementById("full-screen");
+    var playIcon = document.getElementById("play-icon");
+    var pauseIcon = document.getElementById("pause-icon");
+    var muteIcon = document.getElementById("mute-icon");
+    var unmuteIcon = document.getElementById("unmute-icon");
 
     // Sliders
     var seekBar = document.getElementById("seek-bar");
+    var pBar = document.getElementById("p");
     var volumeBar = document.getElementById("volume-bar");
 
     // Event listener for the play/pause button
@@ -19,15 +24,27 @@ window.onload = function() {
             video.play();
 
             // Update the button text to pause
-            playButton.innerHTML = "Pause";
+            // playButton.innerHTML = "Pause";
+            showPauseIcon();
         } else {
             // Pause the video
             video.pause();
 
             // Update the button text to 'Play'
-            playButton.innerHTML = "Play";
+            // playButton.innerHTML = "Play";
+            showPlayIcon();
         }
     });
+
+    function showPlayIcon() {
+      playIcon.classList.remove("hidden");
+      pauseIcon.classList.add("hidden");
+    };
+
+    function showPauseIcon() {
+      playIcon.classList.add("hidden");
+      pauseIcon.classList.remove("hidden");
+    };
 
     // Event listener for the mute button
     muteButton.addEventListener("click", function() {
@@ -36,15 +53,27 @@ window.onload = function() {
             video.muted = true;
 
             // Update the button text
-            muteButton.innerHTML = "Unmute";
+            // muteButton.innerHTML = "Unmute";
+            showUnmuteIcon();
         } else {
             // Unmute the video
             video.muted = false;
 
             // Update the button text
-            muteButton.innerHTML = "Mute";
+            // muteButton.innerHTML = "Mute";
+            showMuteIcon();
         }
     });
+
+    function showUnmuteIcon() {
+      unmuteIcon.classList.remove("hidden");
+      muteIcon.classList.add("hidden");
+    };
+
+    function showMuteIcon() {
+      muteIcon.classList.remove("hidden");
+      unmuteIcon.classList.add("hidden");
+    }
 
     // Event listener for the full-screen button
     fullScreenButton.addEventListener("click", function() {
@@ -56,6 +85,13 @@ window.onload = function() {
             video.webkitRequestFullscreen(); // Chrome and Safari
         }
     });
+
+    // Event listener for the progress bar
+    video.addEventListener("timeupdate", function() {
+      var percent = Math.floor((100 / video.duration) * video.currentTime);
+      pBar.value = percent;
+      pBar.getElementsByTagName('span')[0].innerHTML = percent;
+    }, false);
 
     // Event listener for the seek bar
     seekBar.addEventListener("change", function() {

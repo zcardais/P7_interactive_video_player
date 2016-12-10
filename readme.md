@@ -97,3 +97,11 @@
   - What's the difference between innerHTML and outerHTML?
 
   - This project has required us to call methods on the video, e.g. video.play(); and video.pause();. I only knew about these from a Treehouse blog post how-to article. How would I find the list of available methods on my own?
+
+  MENTOR SESSION WITH PAUL **Project 7: Interactive Video**
+
+  - Replicate play/pause icon html and JavaScript code for the Mute/Unmute button display on video player controls. Use this link to see how to add and remove classes with JavaScript: [Add & Remove Classes With JavaScript Property classList](http://callmenick.com/post/add-remove-classes-with-javascript-property-classlist)
+
+  - Use this link to create the seek-bar and style it: [The progress element](http://html5doctor.com/the-progress-element/)
+
+  - Use this link to do the captions task, whereby the user can click on a word of the transcript and the video will jump directly to that marker: [Getting Started With the Track Element](https://www.html5rocks.com/en/tutorials/track/basics/)

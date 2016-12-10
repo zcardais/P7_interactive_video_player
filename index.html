@@ -18,15 +18,18 @@
               <source src="video/video.mp4" type="video/mp4">
               <source src="video/video.ogg" type="video/ogg">
               <!-- <track label="English" kind="subtitles" srclang="en" src="video/captions.vtt" default> -->
-            </video>
+          </video>
         <!-- Video controls -->
         <div id="video-controls">
             <button type="button" id="play-pause">
-              <img src="icons/play-icon.png" height="100%">
+              <img id="play-icon" src="icons/play-icon.png" height="100%">
+              <img id="pause-icon" class="hidden" src="icons/pause-icon.png" height="100%">
             </button>
-            <input type="range" id="seek-bar" value="0">
+            <!-- <input type="range" id="seek-bar" value="0"> -->
+            <progress id='p' max='100' value='0'><span>0</span>% played</progress>
             <button type="button" id="mute">
-              <img src="icons/volume-on-icon.png" height="100%">
+              <img id="mute-icon" src="icons/volume-on-icon.png" height="100%">
+              <img id="unmute-icon" class="hidden" src="icons/volume-off-icon.png" height="100%">
             </button>
             <input type="range" id="volume-bar" mind="0" max="100" step="0.1" value="1">
             <button type="button" id="full-screen">

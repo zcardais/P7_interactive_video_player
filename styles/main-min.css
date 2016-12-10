@@ -14,12 +14,9 @@ body {
     padding: 5px;
 }
 
-
-/*video {
-    margin: 0 auto;
-    max-width: 100%;
-    padding: 0 1em;
-}*/
+.hidden {
+    display: none;
+}
 
 .captions {
     padding: 10px 20px;
@@ -37,7 +34,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    padding: 5px;
+    padding: 20px;
     opacity: 0;
     -webkit-transition: opacity .3s;
     -moz-transition: opacity .3s;
@@ -70,11 +67,13 @@ button:hover {
     cursor: pointer;
 }
 
-#play-pause {
-    background-image: url('scripts/pause-icon.png)';
-}
-
-#seek-bar {
+#p {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
     margin: 0 auto;
 }
 
