@@ -126,4 +126,6 @@ window.onload = function() {
       // Update the video volume
       video.volume = volumeBar.value;
     });
+
+    console.log(time);
 };
