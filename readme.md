@@ -2,41 +2,41 @@
 
 ## Project Instructions
 
-- Embed the video using HTML. **Complete.**
-- Check that the video works in at least 3 modern browsers.
+- ~~Embed the video using HTML.~~
+- ~~Check that the video works in at least 3 modern browsers.~~
 
-  - You can use Chrome and Firefox, if you have a PC also check your site using Internet Explorer and if you have a Mac check it using Safari.
+- ~~Add the transcript below the video (as shown in the mockup file).~~
 
-- Add the transcript below the video (as shown in the mockup file). **Complete.**
+  - ~~Use the captions.txt file for the text. Add appropriate `p` tags around the text.~~
 
-  - Use the captions.txt file for the text. Add appropriate `p` tags around the text.
+- ~~Style the page using the mockups as guides.~~
 
-- Style the page using the mockups as guides. **In progress.**
+- ~~Implement the play and pause buttons.~~
 
-- Implement the play and pause buttons. **Complete.**
+- ~~Add volume button that lets you mute the sound or turn it on.~~
 
-- Add volume button that lets you mute the sound or turn it on. **Complete.**
+- ~~Implement the fullscreen button.~~
 
-- Implement the fullscreen button. **Complete.**
+- **TODO**: Implement the playback progress control.
 
-- Implement the playback progress control.
+  - **TODO**: A user should be able to click anywhere on the playback bar to jump to that part of the video.
 
-  - A user should be able to click anywhere on the playback bar to jump to that part of the video. **Complete.**
-  - As the video plays the playback bar should fill in. **Complete.**
-  - As the video plays the current time should be displayed and updated e.g. 0:10 / 11:34.
+  - ~~As the video plays the playback bar should fill in.~~
 
-- Use Javascript or CSS to hide and show the video player button on mouse hover states.
+  - **TODO**: As the video plays the current time should be displayed and updated e.g. 0:10 / 11:34.
 
-  - Only the progress bar should remain.
+- **TODO**: Use Javascript or CSS to hide and show the video player button on mouse hover states.
 
-- As the media playback time changes, sentences in the transcript should highlight.
+  - **TODO**: Only the progress bar should remain.
 
-  - Use JavaScript to listen for those changes and apply a highlight to the appropriate sentence.
+- **TODO**: As the media playback time changes, sentences in the transcript should highlight.
+
+  - **TODO**: Use JavaScript to listen for those changes and apply a highlight to the appropriate sentence.
   - You can use the captions.vtt file to see the times at which the words are spoken in the video.
 
-- When submitting your project be sure to make a note in the comments which browsers you have tested with.
+- **TODO**: When submitting your project be sure to make a note in the comments which browsers you have tested with.
 
-- Make sure to check your code is valid by running it through an HTML and CSS validator.
+- **TODO**: Make sure to check your code is valid by running it through an HTML and CSS validator.
 
   - Links to the validators can be found in the Project Resources. This will help you spot any errors that might be in your code.
   - There are a few exceptions that you don't need to fix:
