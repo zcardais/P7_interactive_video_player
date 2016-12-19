@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Project 7: Interactive Video Player</title>
+    <script src="../scripts/jquery-1.5.1.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
     <link rel="stylesheet" href="styles/main-min.css">
@@ -36,6 +37,10 @@
         <button type="button" id="full-screen">
           <img src="icons/fullscreen-icon.png" alt="fullscreen">
         </button>
+        <div id="time"> <!-- CREATING A CURRENT TIME AND DURATION DISPLAY -->
+          <span id="current_time">00:00</span> /
+          <span id="duration">00:00</span>
+        </div>
       </div>
     </div>
     <section class="captions">

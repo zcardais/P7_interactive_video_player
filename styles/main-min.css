@@ -103,3 +103,9 @@ progress[value]::-webkit-progress-value {
     float: right;
     margin: 0 1px;
 }
+
+#time {
+    width: 120px;
+    /* Make it fit just right into the end of the control bar. */
+    text-align: center;
+}

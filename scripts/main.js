@@ -127,5 +127,29 @@ window.onload = function() {
       video.volume = volumeBar.value;
     });
 
-    console.log(time);
 };
+
+
+// TIME DISPLAY ========================//
+var video = document.getElementById("video");
+// Current time display
+$(video).bind("timeupdate", function(){
+  $("#current_time").html(formatTime(this.currentTime));
+});
+
+// Duration display
+$(video).bind("durationchange", function(){
+  $("#duration").html(formatTime(this.duration));
+});
+
+// Write a function that allows us to format the time by passing in the number of seconds and it creates the 00:00 format.
+function formatTime(seconds) {
+  var seconds = Math.round(seconds);
+  var minutes = Math.floor(seconds / 60);
+  // Remaining seconds
+  seconds = Math.floor(seconds % 60);
+  // Add leading Zeros
+  minutes = (minutes >= 10) ? minutes : "0" + minutes;
+  seconds = (seconds >= 10) ? seconds : "0" + seconds;
+  return minutes + ":" + seconds;
+}
