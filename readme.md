@@ -84,7 +84,9 @@
 
 - [Using JavaScript to control the HTML5 video player](http://zeffective.d.pr/fWLk)
 
-## Questions for Mentor Session
+## Questions for Mentor Sessions
+
+### December 8, 2016
 
 - In its current working state, when the user mutes the video the text toggles between "Mute" and "Unmute", which does not match the mockups. How do I display the volume-on.png icon when the player is unmuted and the volume-off.png icon when the user mutes the player? The code for this is on lines 39-45 in scripts/main.js.
 
@@ -105,3 +107,16 @@
   - Use this link to create the seek-bar and style it: [The progress element](http://html5doctor.com/the-progress-element/)
 
   - Use this link to do the captions task, whereby the user can click on a word of the transcript and the video will jump directly to that marker: [Getting Started With the Track Element](https://www.html5rocks.com/en/tutorials/track/basics/)
+
+### December 19, 2016
+
+IMPLEMENT THE PLAYBACK PROGRESS CONTROL.<br>
+[ ] **A user should be able to click anywhere on the playback bar to jump to that part of the video.**<br>
+[x] As the video plays the current time should be displayed and updated e.g. 0:10 / 11:34\. **(Is it okay that I used jQuery?)**
+
+USE JAVASCRIPT OR CSS TO HIDE AND SHOW THE VIDEO PLAYER BUTTON ON MOUSE HOVER STATES.<br>
+[ ] **Only the progress bar should remain.**<br>
+
+AS THE MEDIA PLAYBACK TIME CHANGES, SENTENCES IN THE TRANSCRIPT SHOULD HIGHLIGHT.<br>
+[ ] **Use JavaScript to listen for those changes and apply a highlight to the appropriate sentence.**<br>
+[ ] You can use the captions.vtt file to see the times at which the words are spoken in the video.
