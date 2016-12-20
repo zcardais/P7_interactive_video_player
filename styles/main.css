@@ -109,3 +109,7 @@ progress[value]::-webkit-progress-value {
     /* Make it fit just right into the end of the control bar. */
     text-align: center;
 }
+
+.active {
+    color: orange;
+}
