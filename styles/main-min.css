@@ -95,6 +95,10 @@ progress[value]::-webkit-progress-value {
     margin: 0 auto;
 }
 
+#p:hover {
+  cursor:pointer;
+}
+
 #volume-bar {
     display: none;
 }

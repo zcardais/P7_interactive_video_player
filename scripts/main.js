@@ -130,11 +130,6 @@ $(document).ready(function() {
       }
     };
 
-    function skip_to_text(e) {
-      video.currentTime = e.target.id;
-      video.play();
-    }
-
     video.addEventListener("timeupdate", function() {
       var currentTime = video.currentTime;
       if (currentTime > 0.00 && currentTime < 4.130) {
@@ -193,5 +188,14 @@ $(document).ready(function() {
       minutes = (minutes >= 10) ? minutes : "0" + minutes;
       seconds = (seconds >= 10) ? seconds : "0" + seconds;
       return minutes + ":" + seconds;
+    }
+
+    // Click anywhere on the playback bar to jump to that part of the video.
+    pBar.addEventListener("click", seek);
+
+    function seek(e) {
+      var percent = e.offsetX / this.offsetWidth;
+      video.currentTime = percent * video.duration;
+      pBar.value = percent * 100;
     }
 });
