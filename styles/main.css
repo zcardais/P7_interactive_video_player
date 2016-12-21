@@ -33,7 +33,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    padding: 20px;
+    padding: 15px 20px;
     opacity: 0;
     -webkit-transition: opacity .3s;
     -moz-transition: opacity .3s;
@@ -64,6 +64,20 @@ button #play-pause {
     height: 31px;
 }
 
+#video-container #video-controls {
+    opacity: .9;
+}
+
+#video-container #video-controls #play-pause, #video-container #video-controls #mute, #video-container #video-controls #volume-bar, #video-container #video-controls #full-screen {
+    opacity: 0;
+    transition: .25s ease-out;
+}
+
+#video-container:hover #video-controls #play-pause, #video-container:hover #video-controls #mute, #video-container:hover #video-controls #volume-bar, #video-container:hover #video-controls #full-screen {
+    opacity: 0.9;
+    transition: .25s ease-in;
+}
+
 progress[value] {
     /* Reset the default appearance */
     -webkit-appearance: none;
@@ -89,7 +103,7 @@ progress[value]::-webkit-progress-value {
 #p {
     position: absolute;
     display: block;
-    top: 0;
+    top: 0px;
     left: 0;
     right: 0;
     margin: 0 auto;

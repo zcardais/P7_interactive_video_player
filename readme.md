@@ -75,12 +75,19 @@
 ## Helpful Student Projects
 
 - <https://bellaratmelia.github.io/fewd-7-interactive-video-player/>
+- <https://twoodman.github.io/th-fewd-project-7/>
 - <https://github.com/gschweizer/Interactive-Video-Player>
 - [webdesignertroy](https://github.com/webdesignertroy/Techdegree-Project-7)
 
-## Helpful Student Links
+## Helpful Links
 
 - [Building Custom Controls for HTML5 Videos - Treehouse Blog](http://blog.teamtreehouse.com/building-custom-controls-for-html5-videos)
+
+- [1\. HTML5 Custom Video Player Controls JavaScript Programming Tutorial]<https://www.youtube.com/watch?v=V8_wEZD160g>)
+
+- [3\. HTML5 Custom Video Controls JavaScript Time Programming Tutorial]<https://www.youtube.com/watch?v=KhvOFA9v_-Y>)
+
+- [HTML Audio/Video DOM Reference]<http://www.w3schools.com/TAGS/ref_av_dom.asp>)
 
 - [Using JavaScript to control the HTML5 video player](http://zeffective.d.pr/fWLk)
 
