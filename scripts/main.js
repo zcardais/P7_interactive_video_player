@@ -198,4 +198,5 @@ $(document).ready(function() {
       video.currentTime = percent * video.duration;
       pBar.value = percent * 100;
     }
+
 });

@@ -2373,6 +2373,12 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/npm-debug.log": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/npm-debug.log",
+		"oF": 0
+		},
 	"\/readme.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -2396,15 +2402,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/scripts\/jquery-1.5.1.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/scripts\/jquery-1.5.1.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/scripts\/main-min.js": {
 		"ft": 64,
