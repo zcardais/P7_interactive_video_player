@@ -22,26 +22,26 @@
       </video>
       <!-- Video controls -->
       <div id="video-controls">
-        <button type="button" id="play-pause">
-          <img id="play-icon" src="icons/play-icon.png" height="100%">
-          <img id="pause-icon" class="hidden" src="icons/pause-icon.png" height="100%">
+        <button class="icons" type="button" id="play-pause">
+          <img id="play-icon" src="icons/play-icon.png" alt="play icon">
+          <img id="pause-icon" class="hidden" src="icons/pause-icon.png" alt="pause icon">
         </button>
         <progress id="p" max="100" value="0"><span>0</span>% played</progress>
-        <button type="button" id="full-screen">
-          <img src="icons/fullscreen-icon.png" alt="fullscreen">
+        <button class="icons" type="button" id="full-screen">
+          <img src="icons/fullscreen-icon.png" alt="fullscreen icon">
         </button>
-        <button type="button" id="mute">
-          <img id="mute-icon" src="icons/volume-on-icon.png" height="100%">
-          <img id="unmute-icon" class="hidden" src="icons/volume-off-icon.png" height="100%">
+        <button class="icons" type="button" id="mute">
+          <img id="mute-icon" src="icons/volume-on-icon.png" alt="mute icon">
+          <img id="unmute-icon" class="hidden" src="icons/volume-off-icon.png" alt="unmute icon">
         </button>
-        <input type="range" id="volume-bar" mind="0" max="100" step="0.1" value="1">
+        <input type="range" id="volume-bar" min="0" max="100" step="0.1" value="1">
         <div id="time"> <!-- CREATING A CURRENT TIME AND DURATION DISPLAY -->
           <span id="current_time">00:00</span> /
           <span id="duration">00:00</span>
         </div>
       </div>
     </div>
-    <section class="captions">
+    <div class="captions">
       <p>
         <span class="captionSection" id="transcript-1">Now that we've looked at the architecture of the internet, let's see how you might</span>
         <span class="captionSection" id="transcript-2">connect your personal devices to the internet inside your house.</span>
@@ -60,7 +60,7 @@
         <span class="captionSection" id="transcript-15">A modem is what connects the internet to your network at home.</span>
         <span class="captionSection" id="transcript-16">A few common residential modems are DSL or</span>
       </p>
-    </section>
+    </div>
   </div> <!-- wrapper -->
 
   <script src="scripts/main.js"></script>

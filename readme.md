@@ -17,26 +17,27 @@
 
 - ~~Implement the fullscreen button.~~
 
-- **TODO**: Implement the playback progress control.
+- ~~Implement the playback progress control.~~
 
-  - **TODO**: A user should be able to click anywhere on the playback bar to jump to that part of the video.
+  - ~~A user should be able to click anywhere on the playback bar to jump to that part of the video.~~
 
   - ~~As the video plays the playback bar should fill in.~~
 
-  - **TODO**: As the video plays the current time should be displayed and updated e.g. 0:10 / 11:34.
+  - ~~As the video plays the current time should be displayed and updated e.g. 0:10 / 11:34.~~
 
-- **TODO**: Use Javascript or CSS to hide and show the video player button on mouse hover states.
+- ~~Use Javascript or CSS to hide and show the video player button on mouse hover states.~~
 
-  - **TODO**: Only the progress bar should remain.
+  - ~~Only the progress bar should remain.~~
 
-- **TODO**: As the media playback time changes, sentences in the transcript should highlight.
+- ~~As the media playback time changes, sentences in the transcript should highlight.~~
 
-  - **TODO**: Use JavaScript to listen for those changes and apply a highlight to the appropriate sentence.
-  - You can use the captions.vtt file to see the times at which the words are spoken in the video.
+  - ~~Use JavaScript to listen for those changes and apply a highlight to the appropriate sentence.~~
 
-- **TODO**: When submitting your project be sure to make a note in the comments which browsers you have tested with.
+  - ~~You can use the captions.vtt file to see the times at which the words are spoken in the video.~~
 
-- **TODO**: Make sure to check your code is valid by running it through an HTML and CSS validator.
+- ~~When submitting your project be sure to make a note in the comments which browsers you have tested with.~~
+
+- ~~Make sure to check your code is valid by running it through an HTML and CSS validator.~~
 
   - Links to the validators can be found in the Project Resources. This will help you spot any errors that might be in your code.
   - There are a few exceptions that you don't need to fix:
